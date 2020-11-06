@@ -14,7 +14,7 @@
                 <div class="card">
                     <div class="col-sm-6">
                         <img class="card-img-top" 
-                        src="img/work/work1.jpg" 
+                        src="work1.jpg" 
                         style="height: 90%; width: 100%"
                         class="img-fluid">
                     </div>
@@ -35,7 +35,7 @@
         <div class="card">
                     <div class="col-sm-8">
                     <img class="card-img-top" 
-                    src="img/life/life3.jpg"
+                    src="life3.jpg"
                     style="height: 90%; width: 100%"
                     class="img-fluid">
                     </div>
@@ -56,7 +56,7 @@
         <div class="card">
                     <div class="col-sm-30">
                     <img class="card-img-top" 
-                    src="img/banner/banner1.jpg"
+                    src="banner1.jpg"
                     style="height: 90%; width: 100%"
                     class="img-fluid">
                     </div>
