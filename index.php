@@ -56,7 +56,7 @@
         <div class="card">
                     <div class="col-sm-30">
                     <img class="card-img-top" 
-                    src="banner1.jpg"
+                    src="banner.jpg"
                     style="height: 90%; width: 100%"
                     class="img-fluid">
                     </div>
